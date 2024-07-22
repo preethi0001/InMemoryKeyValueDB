@@ -44,7 +44,7 @@ set(String name, int value)
 Sets the variable name to the value value.
 
 get(String name)
-Returns the value of the variable name, or Integer.MIN_VALUE if that variable is not set.
+Returns the value of the variable name, null if that variable is not set.
 
 unset(String name)
 Unsets the variable name.
