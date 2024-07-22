@@ -40,9 +40,9 @@ public class Main {
         System.out.println(get("a")); // Should print 5 (after commit)
     }
 }
+```
 
-
-Methods
+## Methods
 set(String name, int value)
 Sets the variable name to the value value.
 
