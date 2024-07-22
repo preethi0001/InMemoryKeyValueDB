@@ -1,7 +1,4 @@
 # InMemoryKeyValueDB
-This code handles the basic commands (SET, GET, UNSET) and the transaction commands (BEGIN, ROLLBACK, COMMIT). 
-
-# InMemoryKeyValueDB
 
 InMemoryKeyValueDB is a simple in-memory key/value database implemented in Java. This project supports basic data commands such as `SET`, `GET`, and `UNSET`, as well as optional transaction commands like `BEGIN`, `ROLLBACK`, and `COMMIT`.
 
